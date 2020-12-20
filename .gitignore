@@ -2,6 +2,7 @@
 ###################
 .nova
 imgSource
+.DS_Store
 
 # Compiled source #
 ###################
